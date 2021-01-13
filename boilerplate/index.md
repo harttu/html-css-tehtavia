@@ -7,7 +7,7 @@ Kertoo selaimelle, että kyseessä on html-tiedosto. Esim: css:ää käytetään
 
 html on sivun juuri elementti
 lang="fi", kertoo, että kyseessä on suomenkieltä. Tärkeätä tietoa, esim koneoppimismallille
-````html
+```html
 <html lang="fi">
 ```
 
