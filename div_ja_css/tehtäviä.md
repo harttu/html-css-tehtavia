@@ -36,3 +36,5 @@ Vinkki-> googlaa : css 2 columns
 ## 1
 Selvitä 10 käytetyintä selainta ja niiden prosenttiosuudet.
 
+absolute-relative
+https://leannezhang.medium.com/difference-between-css-position-absolute-versus-relative-35f064384c6
