@@ -1,15 +1,6 @@
 ### Tehtäviä
 
-## 1
-Selvitä 10 käytetyintä selainta ja niiden prosenttiosuudet.
-
-## DIV
-
-#### Millä html-elementillä sivu jaetaan osiin?
-
-#### Miten lohkojen (div) sijoittelu toteutetaan: 
-
-## 3
+## Tee
 Tehtävä:
 
 0. Luo sivulle otsikko h-elementin avulla
@@ -34,4 +25,14 @@ Vinkki-> googlaa : css 2 columns
     absolute:  
     sticky: 
 ```
+### Sekalaista
+
+## DIV
+
+#### Millä html-elementillä sivu jaetaan osiin?
+
+#### Miten lohkojen (div) sijoittelu toteutetaan: 
+
+## 1
+Selvitä 10 käytetyintä selainta ja niiden prosenttiosuudet.
 
