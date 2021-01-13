@@ -4,13 +4,14 @@ Kertoo selaimelle, että kyseessä on html-tiedosto. Esim: css:ää käytetään
 ```html
 <!doctype html> 
 ```
-
+#### html
 html on sivun juuri elementti
 lang="fi", kertoo, että kyseessä on suomenkieltä. Tärkeätä tietoa, esim koneoppimismallille
 ```html
 <html lang="fi">
 ```
 
+#### head
 head sisältää sivuston ei näkyviä, meta, tietoja
 charset kohdassa valitaan käytettävä encoodaus, eli miten eri merkkejä käsitellään
 rel=stylesheet - kohdassa valitaan ulkoinen tyylitiedosto
@@ -27,6 +28,7 @@ name=viewport -kohta liittyy siihen miten sivu näkyy ei laitteissa
 </head>
 ```
 
+#### body
 Varsinainen, käyttäjälle näkyvä osa, sijaitsee body osassa
 ```html
 <body>
@@ -34,3 +36,5 @@ Varsinainen, käyttäjälle näkyvä osa, sijaitsee body osassa
 </body>
 </html>
 ```
+##### Lisätietoa
+https://medium.com/better-programming/understanding-the-tags-in-html-boilerplate-38d1ae2805f7
